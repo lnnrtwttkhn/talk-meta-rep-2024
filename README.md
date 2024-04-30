@@ -4,6 +4,18 @@
 [![Codespell](https://github.com/lnnrtwttkhn/quarto-presentation/actions/workflows/codespell.yml/badge.svg)](https://github.com/lnnrtwttkhn/quarto-presentation/actions/workflows/codespell.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## Abstract
+
+**Title:** Science as distributed open-source knowledge development
+
+Inadequate reproducibility, a lack of transparency, and inefficient workflows - many scientific disciplines have a pressing need for innovation.
+Additionally, the research process is becoming increasingly digital, computational, and collaborative.
+I argue that technical solutions to these challenges already exist and can be found in professional software development.
+These solutions primarily include tools for collaborative version control of code and data, such as Git or DataLad, as well as software containers like Docker.
+I will discuss how these tools are transforming scientific workflows and identify the (predominantly non-technical) hurdles that exist regarding their implementation.
+
+**Keywords:** reproducibility, collaboration, version control, digital research skills, science reform
+
 ## About
 
 This template repository contains code to quickly set up a new presentation with Quarto.
